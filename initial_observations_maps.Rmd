@@ -1,6 +1,6 @@
 ---
 title: "Initial observations on the Myanmar Food Security Cluster 5Ws"
-author: "Sean Ng"
+author: "Myanmar Food Security Cluster"
 date: "04/02/2022"
 output: 
   html_document:
