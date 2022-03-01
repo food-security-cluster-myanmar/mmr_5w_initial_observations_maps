@@ -78,13 +78,13 @@ pcode3_shape <- st_read("./mmr_polbnda_adm3_mimu_250k/mmr_polbnda_adm3_mimu_250k
 ```
 
 
-## 7. Interactive reference maps
+## 8. Interactive reference maps
 
 **[Back](https://food-security-cluster-myanmar.github.io/mmr_5w_initial_observations/)** to earlier sections. 
 
 <br><br>
 
-### 7.1 Map of 2022 targets by township
+### 8.1 Map of 2022 targets by township
 
 
 ```{r targets-map-ggplotly, fig.height=10}
@@ -132,7 +132,7 @@ ggplotly(tsp_map, tooltip = c("text")) %>%
 
 <br><br>
 
-### 7.2 Map of 2021 beneficiaries by township
+### 8.2 Map of 2021 beneficiaries by township
 
 ```{r beneficiaries-map-ggplotly, fig.height=10}
 
